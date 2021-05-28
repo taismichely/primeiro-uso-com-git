@@ -1,2 +1,2 @@
 # GitHub
-Este é um repositorio teste para o Git.
+Este é um repositório teste para o Git.
